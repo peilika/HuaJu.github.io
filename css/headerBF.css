@@ -1,0 +1,42 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+h1{
+    width: 100%;
+    text-align: center;
+}
+header .BTXX{
+    list-style-type: none;
+    width: 100%;
+    text-align: center;
+    float: left;
+}
+header .BTXX li{
+    float: left;
+    background-color: rgb(75, 239, 33);
+    text-align: center;
+    line-height: 80px;
+    width: 20%;
+    height: 80px;
+}
+header .BTXX li a{
+    text-decoration: none;
+}
+header .BTXX li:hover{
+    text-decoration: none;
+    background-color: gray;
+}
+footer .DYTHuaYu{
+    
+    width: 600px;
+    position: relative;
+    left: 100px;
+}
+footer .DYTHuaYu li{
+    text-decoration: none;
+    color: rgb(213, 55, 55);
+}
+footer .DYTHuaYu li b{
+    text-decoration: black;
+}
